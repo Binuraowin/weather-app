@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Binuraowin/weather-app/issues"
   },
-  "homepage": "https://github.com/Binuraowin/weather-app#readme"
+  "homepage": "https://github.com/Binuraowin/weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
